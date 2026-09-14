@@ -5,7 +5,7 @@
   <img src="screenshots/menu-preview.png" alt="Menü Önizleme" width="250">
 </p>
 
-Sağ üst panelde sıradaki namaz vaktine kalan süreyi geri sayım olarak gösteren bir GNOME Shell eklentisidir. **Diyanet İşleri Başkanlığı** vakitleriyle birebir uyumludur. **Süleyman Şişman tarafından insanlık yararına oluşturulmuştur. Pardus** sistemleriyle tam uyumludur.
+Sağ üst panelde sıradaki namaz vaktine kalan süreyi geri sayım olarak gösteren bir GNOME Shell eklentisidir. **Diyanet İşleri Başkanlığı** vakitleriyle birebir uyumludur. Süleyman Şişman tarafından insanlık yararına oluşturulmuştur. **Pardus** sistemleriyle tam uyumludur.
 
 [![GNOME 45+](https://img.shields.io/badge/GNOME-45%20%7C%2046%20%7C%2047%20%7C%2048-blue?logo=gnome&logoColor=white)](https://extensions.gnome.org/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-green.svg)](https://www.gnu.org/licenses/gpl-3.0)
