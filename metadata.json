@@ -1,0 +1,10 @@
+{
+  "uuid": "namazvakti@suleyman.hocam",
+  "name": "Namaz Vakti",
+  "description": "Sıradaki namaz vaktine kalan süreyi sağ üst panelde geri sayım olarak gösterir. Diyanet İşleri Başkanlığı vakitleriyle uyumludur. Türkiye'nin 81 ili desteklenir.",
+  "shell-version": ["45", "46", "47", "48"],
+  "version": 1,
+  "url": "",
+  "settings-schema": "org.gnome.shell.extensions.namazvakti",
+  "gettext-domain": "namazvakti"
+}

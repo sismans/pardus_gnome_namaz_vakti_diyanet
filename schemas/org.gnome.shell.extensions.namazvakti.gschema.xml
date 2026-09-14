@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  GSettings Şeması — Namaz Vakti Extension
+  ==========================================
+  Bu şema, kullanıcının seçtiği ili ve API parametrelerini kalıcı olarak saklar.
+  GSettings veritabanına yazıldığı için oturum kapansa bile ayarlar korunur.
+-->
+<schemalist>
+  <schema id="org.gnome.shell.extensions.namazvakti"
+          path="/org/gnome/shell/extensions/namazvakti/">
+
+    <!-- Seçili şehir adı (Aladhan API'nin "city" parametresine gönderilir) -->
+    <key name="city" type="s">
+      <default>'Istanbul'</default>
+      <summary>Şehir</summary>
+      <description>Namaz vakitlerinin hesaplanacağı şehir adı (İngilizce).</description>
+    </key>
+
+    <!-- Ülke adı (Aladhan API'nin "country" parametresine gönderilir) -->
+    <key name="country" type="s">
+      <default>'Turkey'</default>
+      <summary>Ülke</summary>
+      <description>Namaz vakitlerinin hesaplanacağı ülke adı (İngilizce).</description>
+    </key>
+
+    <!--
+      Hesaplama metodu (method=13 → Diyanet İşleri Başkanlığı)
+      Tam liste: https://aladhan.com/prayer-times-api
+    -->
+    <key name="method" type="i">
+      <default>13</default>
+      <summary>Hesaplama Metodu</summary>
+      <description>Namaz vakti hesaplama metodu. 13 = Diyanet İşleri Başkanlığı.</description>
+    </key>
+
+  </schema>
+</schemalist>

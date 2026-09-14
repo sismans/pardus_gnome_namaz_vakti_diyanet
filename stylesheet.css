@@ -1,0 +1,25 @@
+/*
+ * Namaz Vakti — Panel ve Menü Stili
+ * ===================================
+ */
+
+/* Ana panel butonu metni */
+.namaz-vakti-label {
+    font-weight: bold;
+    font-size: 13px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+/* Veri yüklenirken soluk görünüm */
+.namaz-vakti-loading {
+    font-style: italic;
+    color: #aaaaaa;
+}
+
+/* Menüdeki vakit saati (sağa hizalı) */
+.namaz-vakti-time {
+    font-weight: bold;
+    margin-left: 24px;
+    color: #cccccc;
+}
