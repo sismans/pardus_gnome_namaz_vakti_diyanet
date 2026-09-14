@@ -112,11 +112,11 @@ Tüm vakitler geçtiyse (yatsı sonrası):
 
 ## 🐧 Pardus Uyumluluğu
 
-Bu eklenti Pardus (Debian tabanlı) sistemlerde yerli ve milli amaçlarla insanlık yararına test edilmiş ve geliştirilmiştir. Pardus Yazılım Merkezi'ne önermek için:
+Bu eklentiyi Pardus Yazılım Merkezi'ne önerebilirsiniz. Pardus (Debian tabanlı) sistemlerde yerli ve milli amaçlarla insanlık yararına test edilmiş ve geliştirilmiştir. Pardus Yazılım Merkezi'ne önermek için:
 
 1. [Pardus Uygulama Öner](https://apps.pardus.org.tr/suggest) sayfasına gidin
 2. **Uygulama Adı:** Namaz Vakti GNOME Extension
-3. **Web Sitesi:** Bu GitHub reposunun URL'si
+3. **Web Sitesi:** Bu GitHub reposunun URL'si [ https://github.com/sismans/pardus_gnome_namaz_vakti_diyanet/ ]
 
 ## 📋 Gereksinimler
 
