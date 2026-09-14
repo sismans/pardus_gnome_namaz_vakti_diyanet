@@ -23,7 +23,7 @@ GREEN='\033[0;32m'
 YELLOW='\033[1;33m'
 NC='\033[0m' # No Color
 
-EXTENSION_UUID="namazvakti@suleyman.hocam"
+EXTENSION_UUID="namaz_vakti_diyanet@sismans"
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 ZIP_FILE="${SCRIPT_DIR}/${EXTENSION_UUID}.zip"
 
